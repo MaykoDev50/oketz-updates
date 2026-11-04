@@ -1,8 +1,8 @@
 {
- "version": "0.9.10",
- "file": "app-0.9.10.asar",
- "sha256": "317d8d2d355f30d2eded227865f1c99f510bd761faf60b3356ae23472156e197",
- "size": 25009016,
+ "version": "0.9.11",
+ "file": "app-0.9.11.asar",
+ "sha256": "73d9d365ca674f07c7e658e2af104999f543867f3fb5d8b09cec59698b944e5b",
+ "size": 25008742,
  "minShell": "0.9.4",
- "notes": "רמת קושי מאוזנת יותר לעקיצות"
+ "notes": "בלי OpenAI — רק שירותים חינמיים (Google + מקומי)"
 }
