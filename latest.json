@@ -1,8 +1,8 @@
 {
- "version": "0.9.11",
- "file": "app-0.9.11.asar",
- "sha256": "73d9d365ca674f07c7e658e2af104999f543867f3fb5d8b09cec59698b944e5b",
- "size": 25008742,
+ "version": "0.9.12",
+ "file": "app-0.9.12.asar",
+ "sha256": "265e7d4c3a14ecf16d5506f7c165dee2702c091c28c3ce06fe81f70e41ff4459",
+ "size": 25008818,
  "minShell": "0.9.4",
- "notes": "בלי OpenAI — רק שירותים חינמיים (Google + מקומי)"
+ "notes": "Groq חינמי מחובר — שמיעה ותשובות מהירות"
 }
