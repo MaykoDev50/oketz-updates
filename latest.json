@@ -1,8 +1,8 @@
 {
- "version": "0.9.17",
- "file": "app-0.9.17.asar",
- "sha256": "1264382af6e46bde162ecff2fda11e1592c97390e1effe403589b6a8b215240d",
- "size": 25038962,
+ "version": "0.9.18",
+ "file": "app-0.9.18.asar",
+ "sha256": "e22e2824005a51be756a06b431662acb1e9d56ecab1ba3177275a2683884a274",
+ "size": 25039006,
  "minShell": "0.9.4",
- "notes": "תמיכה בזיהוי דיבור בזמן אמת (Speechmatics) · בדיקת מיקרופון משופרת"
+ "notes": "Speechmatics מחובר — זיהוי דיבור עברי מדויק בזמן אמת"
 }
