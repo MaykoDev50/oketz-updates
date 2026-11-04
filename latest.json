@@ -1,8 +1,8 @@
 {
- "version": "0.9.14",
- "file": "app-0.9.14.asar",
- "sha256": "09192784ebb8b3eaa0f17e1559d5ab8c3e550cb5b5eefaf80e1217fe114ef559",
- "size": 25024290,
+ "version": "0.9.15",
+ "file": "app-0.9.15.asar",
+ "sha256": "8f18143c8ddbc91ddb975ea61da3bc8e3a87cf896ffd090820686571052c367d",
+ "size": 25032312,
  "minShell": "0.9.4",
- "notes": "הבנת דיבור משופרת: המודל העברי ivrit.ai מוביל, והמתקשר מתקן טעויות תמלול"
+ "notes": "Google מתמלל במקביל · בדיקת מיקרופון בהגדרות"
 }
